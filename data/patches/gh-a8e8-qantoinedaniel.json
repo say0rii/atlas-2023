@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "Q!AntoineDaniel",
+	"description": "Antoine Daniel is a french streamer on the mincraft server QSMP ",
+	"links": {},
+	"path": {
+		"250": [
+			[
+				488,
+				440
+			],
+			[
+				499,
+				440
+			],
+			[
+				499,
+				450
+			],
+			[
+				488,
+				450
+			],
+			[
+				488,
+				440
+			]
+		]
+	},
+	"center": {
+		"250": [
+			494,
+			445
+		]
+	}
+}
