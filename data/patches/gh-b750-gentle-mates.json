@@ -1,0 +1,48 @@
+{
+	"id": -1,
+	"name": "Gentle Mates",
+	"description": "Gentle mates is a french Esport Team who sponsored Squeezie and Gotaga during the GPExplorer 2",
+	"links": {
+		"website": [
+			"https://www.gentlemates.com"
+		]
+	},
+	"path": {
+		"250": [
+			[
+				-404,
+				52
+			],
+			[
+				-402,
+				52
+			],
+			[
+				-399,
+				56
+			],
+			[
+				-399,
+				58
+			],
+			[
+				-404,
+				60
+			],
+			[
+				-407,
+				56
+			],
+			[
+				-405,
+				53
+			]
+		]
+	},
+	"center": {
+		"250": [
+			-403,
+			56
+		]
+	}
+}
